@@ -1,2 +1,2 @@
-# WuxiaSim
-Wuxia (Chinese Fiction "Martial Arts and Chivalry") Simulator By Game
+# OFSimul
+OFSimul (Oriental Fantasy "Martial Arts and Chivalry") Simulator By Game
